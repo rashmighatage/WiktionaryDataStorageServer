@@ -1,0 +1,43 @@
+.container{
+	text-align: center;
+
+
+}
+.formtable{
+	padding: 10px;
+	color: orange;
+	text-align: center;
+	font-size: 25;
+
+}
+.password{
+	margin:20px;
+}
+body{
+	background : light grey;
+
+}
+
+
+header {
+		
+		margin: 5px;
+		margin-bottom: 15px;
+		padding: 8px;
+		text-align: center;
+		color: red;
+	}
+.topnav1{
+	float: right;
+}
+.tabuser{
+	border:2px;
+}
+.form-group{
+	margin-right: 100px;
+	margin-left: 90px;
+	margin-top: 40px;
+}
+.form-btn{
+text-align: center;
+}
